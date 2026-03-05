@@ -3,7 +3,7 @@ import time
 import random
 from datetime import datetime
 
-BOT_TOKEN = "8626740595:AAHijSCWofzmYKpFglxQrQYnUaUGaVJzN60"
+BOT_TOKEN = "8626740595:AAHsQIAcWItEgYN12nkFqB2Xjp2_FapUHYQ"
 
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
